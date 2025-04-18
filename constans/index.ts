@@ -1,6 +1,6 @@
-import { CreateAssistantDTO } from "@vapi-ai/web/dist/api";
+//import { CreateAssistantDTO } from "@vapi-ai/web/dist/api";
 import { z } from "zod";
-
+/*
 export const mappings = {
   "react.js": "react",
   reactjs: "react",
@@ -203,7 +203,7 @@ export const interviewCovers = [
   "/tiktok.png",
   "/yahoo.png",
 ];
-
+*/
 export const dummyInterviews: Interview[] = [
   {
     id: "1",
